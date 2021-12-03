@@ -93,7 +93,7 @@ main h1 {
     cursor: pointer;
 }
 
-@media (max-width: 640px) {
+@media (min-width: 640px) {
     #products {
         display:flex;
         flex-wrap: wrap;
